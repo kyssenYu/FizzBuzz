@@ -5,6 +5,10 @@ class FizzBuzz {
 
     public static void main(String[] args) {
 
+        domain();
+    }
+
+    public static void domain() {
         int i = 1;
         while (i < 100) {
 
